@@ -9,7 +9,6 @@ int main(){
     printf("\nThis is the alphabet = %c", alphabet);
     printf("\nThis is the PI = %f", pi);
     printf("\nThis\tThat");
-    return 0;
     
     return 0;
 }
